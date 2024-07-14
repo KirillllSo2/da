@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":12,"dataId":0,"value1":0,"value2":69}],"hitType":0,"iconIndex":0,"itypeId":1,"name":"Балтика девятка","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":11,"dataId":0,"value1":0,"value2":290}],"hitType":0,"iconIndex":0,"itypeId":1,"name":"Кола черноголовка","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]

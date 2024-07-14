@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"members":[{"enemyId":1,"x":390,"y":349,"hidden":false}],"name":"Злая Мамка","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[{"code":101,"indent":0,"parameters":["",0,0,0]},{"code":401,"indent":0,"parameters":["Ну всё Саша пиздец тебе!"]},{"code":0,"indent":0,"parameters":[]}],"span":0},{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":30,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[{"code":101,"indent":0,"parameters":["",0,0,0]},{"code":401,"indent":0,"parameters":["ДА ЗДОХНИ ТЫ УЖЕ ПИДРИЛА"]},{"code":0,"indent":0,"parameters":[]}],"span":0}]}
+]

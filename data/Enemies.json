@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1},{"conditionParam1":0.01,"conditionParam2":0.3,"conditionType":2,"rating":5,"skillId":3}],"battlerHue":0,"battlerName":"mom","dropItems":[{"kind":1,"dataId":1,"denominator":1},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":100,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":69,"name":"Злая Мамка","note":"","params":[1000,0,21,10,10,10,10,10]}
+]
